@@ -1,3 +1,7 @@
+/*fibonacci is a series in which next number is sum of last two number in the series
+  it is start with two numbers 0 and 1 Example 
+  0 , 1 , 1 , 2 , 3 , 5 , 8 , 13.............. */
+
 //#include <stdio.h>
 //int main() {
 //
